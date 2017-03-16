@@ -1,4 +1,4 @@
-# bluemix-aspnetcore-starter
+# Getting started with ASP.NET Core 1.0 on Bluemix on Visual Studio 2017
 This guide will take you through the steps to get started on Bluemix with the help of a sample application. In 10 minutes or less, you’ll learn to:
 - Set up a development environment
 - Download sample code
